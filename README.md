@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Kyoshi Noda. I'm a junior majoring in Computer Science at Stony Brook University.
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning: React, Next.js, Express, Tailwind, MaterialUI, SQL, MongoDB
+- 🌱 I’m currently learning: React, Next.js, Express, Tailwind, Headless UI, SQL, MongoDB
 - 💞️ I’m looking to collaborate on open source react projects
 - 📫 How to reach me: https://www.linkedin.com/in/kyoshi-noda/
 
