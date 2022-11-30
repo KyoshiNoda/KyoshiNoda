@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source react projects
 - 📫 How to reach me: https://www.linkedin.com/in/kyoshi-noda/
 
-[![Kyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoshiNoda&theme=algolia&show_icons=true)](https://github.com/KyoshiNoda/github-readme-stats)
+[![Kyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoshiNoda)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 KyoshiNoda/KyoshiNoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
