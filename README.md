@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Kyoshi Noda. I'm a junior majoring in Computer Science <3
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning: Golang, TypeScript, Next.js, Express, Flask, MongoDB, AngularJS
+- 🌱 I’m currently learning: Golang, TypeScript, Next.js, Express, Flask, MongoDB, Angular
 - 💞️ I’m looking to collaborate on open source react projects
 - 📫 How to reach me: https://www.linkedin.com/in/kyoshi-noda/
 
