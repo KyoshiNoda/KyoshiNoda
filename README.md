@@ -1,6 +1,6 @@
 - 👋 Hello! My name is Kyoshi Noda. I'm a junior majoring in Computer Science <3
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning: TensorFlow, Pandas, Matplotlib
+- 🌱 I’m currently learning: TensorFlow, Pandas, Matplotlib, scikit-learn
 - 💞️ I’m looking to collaborate on open source react projects
 - 📫 How to reach me: https://www.linkedin.com/in/kyoshi-noda/
 
