@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Kyoshi Noda. I'm a recent graduate in Computer Science <3
+- 👋 Hello! My name is Kyoshi Noda. I'm a graduate student in Computer Science <3
 - :computer: Working as a Full Stack Software Engineer at SAS Institute.
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning: TensorFlow, Pandas, Matplotlib, scikit-learn
