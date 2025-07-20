@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: TensorFlow, Pandas, Matplotlib, scikit-learn
 - 📫 How to reach me: https://www.linkedin.com/in/kyoshi-noda/
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kyoshinoda&theme=tokyonight)](https://git.io/streak-stats)
 ![Kyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoshinoda&show_icons=true&theme=tokyonight)
 <!---
 KyoshiNoda/KyoshiNoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
